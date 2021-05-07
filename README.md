@@ -1,6 +1,6 @@
 ## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am [Sushil Thapa](https://thapasushil.com).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tsusil?label=Follow&style=social)](http://twitter.com/tsusil)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tsushil_thapa?label=Follow&style=social)](http://twitter.com/tsushil_thapa)
 [![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thapasushil/)](https://www.linkedin.com/in/thapasushil/)
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=Sushil-Thapa)
 <br />
