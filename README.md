@@ -8,10 +8,11 @@
 ## About
 - 💻 Senior Machine Learning Engineer at [Fusemachines](https://fusemachines.com).
 - 💡 Deep Learning / Machine Learning Instructor at [fuse.ai](https://fuse.ai).
+- 📚 Graduate Research Assistant(Deep Learning) + Graduate Student at [New Mexico Tech](https://cs.nmt.edu).
 - ✍️ I also maintain a [blog here](https://thapasushil.com), Mostly related to my work and research on Machine Learning. 
 - 🌱 Favourite Quote: The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep.
 - 🔭 Research Interests: Computer Vision, NLP, Self/Semi Supervised Learning, Reinforcement Learning, Multi-Modal Machine Learning.
-- 📃 You can find [my Resume](https://thapasushil.com/files/Resume.pdf) here.
+- 📃 You can find [my latest Resume](https://thapasushil.com/files/Resume.pdf) here.
 
 
 ## Languages and Tools  
