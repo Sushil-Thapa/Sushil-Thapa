@@ -30,7 +30,7 @@
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=ud-deep-reinforcement-learning)](https://github.com/Sushil-Thapa/ud-deep-reinforcement-learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=udacity-deep-reinforcement-learning-nanodegree)](https://github.com/Sushil-Thapa/udacity-deep-reinforcement-learning-nanodegree)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=udacity-computervision-nanodegree)](https://github.com/Sushil-Thapa/udacity-computervision-nanodegree/)
 
 <br />
