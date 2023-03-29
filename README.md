@@ -6,12 +6,23 @@
 <br />
 
 ## About
-- 💻 Senior Machine Learning Engineer at [Fusemachines](https://fusemachines.com).
-- 💡 Deep Learning / Machine Learning Instructor at [fuse.ai](https://fuse.ai).
-- 📚 Graduate Research Assistant(Deep Learning) at [New Mexico Tech](https://cs.nmt.edu) and [Los Alamos National Lab](https://lanl.gov).
+- 👨🏻‍💻 Computer Vision Engineer at [Intel](https://intel.com). 
+- Ex:
+  - Senior Machine Learning Engineer at [Fusemachines](https://fusemachines.com).
+  - Deep Learning / Machine Learning Instructor at [fuse.ai](https://fuse.ai).
+  - Graduate Research Assistant (Deep Learning) at [New Mexico Tech](https://cs.nmt.edu) and [Los Alamos National Lab](https://lanl.gov).
+  - Multimodal Machine Learning Research at [Stanford AI Lab](https://ai.stanford.edu/).
+  - R&D Engineer at [Spark Tech](https://spark.com.np)
+  - Robotics Engineer at [Robotics and Automation Center](https://www.facebook.com/racthapathali/)
 - ✍️ I also maintain a [blog here](https://thapasushil.com), Mostly related to my work and research on Machine Learning. 
 - 🌱 Favourite Quote: The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep.
-- 🔭 Research Interests: Computer Vision, NLP, Self/Semi Supervised Learning, Multi-Modal Machine Learning.
+- 🔭 Research Interests: 
+  - Multi-Modal Machine Learning
+    - Computer Vision
+    - NLP
+  - Self/Semi Supervised Learning, Large Language Models (LLM)
+  - Robustness / Out of Distribution Detection / Uncertainty Quantification
+  - Reinforcement Learning
 - 📃 You can find [my latest Resume](https://thapasushil.com/files/Resume.pdf) here.
 
 ## Languages and Tools  
@@ -22,7 +33,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 <br />
 
-<details>
+<!-- <details>
 <summary>
   Additional projects I sometimes work on :arrow_down:
 </summary>
@@ -36,4 +47,4 @@
 
 
 [comment]:![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-</details>
+</details> -->
