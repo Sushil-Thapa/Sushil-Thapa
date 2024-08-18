@@ -1,6 +1,6 @@
 ## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am [Sushil Thapa](https://thapasushil.com).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tsushil_thapa?label=Follow&style=social)](http://twitter.com/tsushil_thapa)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tsushil_thapa?label=Follow&style=social)](http://twitter.com/sushil_ai)
 [![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thapasushil/)](https://www.linkedin.com/in/thapasushil/)
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=Sushil-Thapa)
 <br />
@@ -23,7 +23,7 @@
   - Self/Semi Supervised Learning, Large Language Models (LLM)
   - Robustness / Out of Distribution Detection / Uncertainty Quantification
   - Reinforcement Learning
-- 📃 You can find [my latest Resume](https://thapasushil.com/files/Resume.pdf) here.
+#- 📃 You can find [my latest Resume](https://thapasushil.com/files/Resume.pdf) here.
 
 ## Languages and Tools  
 <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
