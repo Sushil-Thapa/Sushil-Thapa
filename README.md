@@ -23,7 +23,6 @@
   - Self/Semi Supervised Learning, Large Language Models (LLM)
   - Robustness / Out of Distribution Detection / Uncertainty Quantification
   - Reinforcement Learning
-##- 📃 You can find [my latest Resume](https://thapasushil.com/files/Resume.pdf) here.
 
 ## Languages and Tools  
 <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
