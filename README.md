@@ -6,7 +6,7 @@
 <br />
 
 ## About
-- 👨🏻‍💻 Computer Vision Engineer at [Intel](https://intel.com). 
+- 👨🏻‍💻 Software Engineer, Machine Learning at [Intel](https://intel.com). 
 - Ex:
   - Senior Machine Learning Engineer at [Fusemachines](https://fusemachines.com).
   - Deep Learning / Machine Learning Instructor at [fuse.ai](https://fuse.ai).
@@ -14,23 +14,15 @@
   - Multimodal Machine Learning Research at [Stanford AI Lab](https://ai.stanford.edu/).
   - R&D Engineer at [Spark Tech](https://spark.com.np)
   - Robotics Engineer at [Robotics and Automation Center](https://www.facebook.com/racthapathali/)
-- ✍️ I also maintain a [blog here](https://thapasushil.com), Mostly related to my work and research on Machine Learning. 
 - 🌱 Favourite Quote: The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep.
-- 🔭 Research Interests: 
+- 🔭 Research Interests:
+  - Generative AI, Large Language Models (LLM) / Vision Language Models (VLM)
+    - Pre-training, Post-training, Alignment, AI Agents
   - Multi-Modal Machine Learning
-    - Computer Vision
-    - NLP
-  - Self/Semi Supervised Learning, Large Language Models (LLM)
-  - Robustness / Out of Distribution Detection / Uncertainty Quantification
+    - Computer Vision, NLP, Tabular
+  - Self/Semi Supervised Learning
   - Reinforcement Learning
-
-## Languages and Tools  
-<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<br />
+  - Robustness / Out of Distribution Detection / Uncertainty Quantification
 
 <!-- <details>
 <summary>
