@@ -6,8 +6,9 @@
 <br />
 
 ## About
-- 👨🏻‍💻 Software Engineer, Machine Learning at [Intel](https://intel.com). 
+- 👨🏻‍💻 Machine Learning Engineer at [Apple](https://apple.com)
 - Ex:
+  - Software Engineer, Machine Learning at [Intel](https://intel.com). 
   - Senior Machine Learning Engineer at [Fusemachines](https://fusemachines.com).
   - Deep Learning / Machine Learning Instructor at [fuse.ai](https://fuse.ai).
   - Graduate Research Assistant (Deep Learning) at [New Mexico Tech](https://cs.nmt.edu) and [Los Alamos National Lab](https://lanl.gov).
